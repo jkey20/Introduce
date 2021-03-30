@@ -53,10 +53,6 @@ Minimalist, Perfectionist, Humanist.
 
 ### 지인 평가
 평가는 [Pull Request](https://github.com/jkey20/RESUME/pulls)로 부탁드리겠습니다!
-
-읽어주셔서 감사합니다.
-수정해야할 부분은 [Issue](https://github.com/jkey20/RESUME/issues)에 적어주세요!
-
 ### [강근우](https://github.com/moaikang)(개발자, [Protopie](https://www.protopie.io/))
 
 제가 본 이식님은 **문제를 정확히 파악하고, 적절한 방법으로 문제를 해결**하는 것에 능합니다. 
@@ -72,3 +68,7 @@ Minimalist, Perfectionist, Humanist.
 > 이식님은 자신이 알고 있는 지식을 타인에게 공유하는 것을 좋아합니다. 
 >
 > 남들에게 적극적으로 공유하는 태도와 긍정적인 성격을 기반으로 팀과 함께 성장하는 방법을 아는 개발자라고 생각합니다
+
+
+읽어주셔서 감사합니다.
+수정해야할 부분은 [Issue](https://github.com/jkey20/RESUME/issues)에 적어주세요!
