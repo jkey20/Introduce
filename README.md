@@ -1,4 +1,5 @@
 # 이력서
+
 ### 소개
 
 ![image](https://user-images.githubusercontent.com/32587845/112917679-1e764780-913e-11eb-890e-b4234e10b999.png)
@@ -72,3 +73,6 @@ Minimalist, Perfectionist, Humanist.
 
 읽어주셔서 감사합니다.
 수정해야할 부분은 [Issue](https://github.com/jkey20/RESUME/issues)에 적어주세요!
+
+
+[JSpinner](https://github.com/JSpiner)님 이력서를 참고했습니다.
