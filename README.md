@@ -8,11 +8,6 @@
 - Blog: https://gwynn.tistory.com/
 
 ```
-Wannabe an Android Sherpa
-
-에베레스트 등반을 도와주는 셰르파처럼
-팀원들과 정상에 도달할 때까지 같이 오르면서 도움을 줄 수 있는 안드로이드 개발자가 되고 싶습니다.
-
 Minimalist, Perfectionist, Humanist.
 ```
 
