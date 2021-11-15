@@ -28,10 +28,10 @@ Minimalist, Perfectionist, Humanist.
 
 ### 참여 프로젝트
 
-#### 더치(2019/7 ~)
+#### 더치(2019/7 ~ 2021/11)
 - 소개: 사용자의 중간지점의 위치를 알려주는 서비스
 - 역할: 안드로이드 개발, PM, 유지보수 담당
-- 사용기술: 업데이트 후 추후작성
+- 사용기술: MVVM, Retrofit, Hilt, DataBinding, Coroutine, T Map & SafeCaster & KaKao Link API
 - 자세한 내용은 [코틀린ver 개발페이지](https://github.com/jkey20/Kotlin-Dutch)와 [이전ver 개발페이지](https://github.com/2019androidtp/Dutch)를 확인해주세요
 
 #### 지금맛나(2020/2 ~ 2020/3)
