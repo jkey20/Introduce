@@ -1,5 +1,3 @@
-# 이력서
-
 ### 소개
 
 ![image](https://user-images.githubusercontent.com/32587845/112917679-1e764780-913e-11eb-890e-b4234e10b999.png)
