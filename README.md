@@ -20,16 +20,6 @@
 ### 단체경력
 - 세종대학교 중앙학술프로그래밍 동아리 인터페이스 (2016 ~)
 
-
-### 사용기술
-#### Android
-- Java
-- Kotlin
-- RxJava
-- MVVM
-- DataBinding
-- Retrofit, Glide 등등..
-
 ![blue](https://user-images.githubusercontent.com/32587845/179327398-abe21397-4936-41d6-a55e-05c11c59faab.png)
 
 <details>
