@@ -33,7 +33,7 @@
 
 <details>
 
-<summary> 참여 프로젝트 </summary>
+<summary> 메인 프로젝트 </summary>
 <blockquote>
 
   <details>
