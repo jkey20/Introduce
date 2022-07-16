@@ -81,6 +81,7 @@
   ###### 배운 점
   - Rx 이론을 프로젝트에 실제로 적용
   - Firebase를 처음으로 적용
+  - 서버와 통신하는 다양한 방법들을 익
   - 디자인 오픈소스 사용법을 익힘
   ###### 개선할 점
   - Repository 패턴의 사용법을 이해하지 못한채 사용함
@@ -135,6 +136,25 @@
   - 구현시간 부족으로 리팩토링 및 기능부족
   
   </details>
+  
+</blockquote>
+</details>
+
+<details>
+
+<summary> 그외 프로젝트 </summary>
+<blockquote>
+
+  <details>
+
+  <summary> 지금맛나(2020/2 ~ 2020/3 개발중단)</summary>  
+
+  - 소개: 하나의 프로젝트에 웹, 안드로이드, 서버, 머신러닝, 디자인 5개 분야의 기술을 모두 구현해보는 프로젝트 
+  - 역할: 안드로이드 개발, PM
+  - [프로젝트 개발페이지](https://github.com/MeeatNow/MeeatNow/tree/android)
+
+  </details>
+
   
 </blockquote>
 </details>
