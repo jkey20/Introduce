@@ -5,9 +5,14 @@
 - Email: helios2sic@gmail.com
 - Blog: https://gwynn.tistory.com/
 
-```
-Minimalist, Perfectionist, Humanist.
-```
+![black](https://user-images.githubusercontent.com/32587845/179325731-29a57152-58a3-438b-91a7-78fc1ddd8b94.png)
+
+<div align="center">
+<p>내가 만드는 <b>코드의 아름다움</b>을 찾아 <b>나만의 작품들</b>을 만들어 <b>세상에 나를 남기기 위해</b> 나아가고 있습니다.</p>
+<p>많은 사람들에게 <b>영감을 불어넣는 사람</b>, 하고자 하는것에 몰두하며 그것을 <b>끝까지 해내는 사람</b>이 되려고 합니다.</p>
+</div>
+
+![black](https://user-images.githubusercontent.com/32587845/179325733-12f0eafa-6034-4142-91d1-4d908520f44a.png)
 
 ### 단체경력
 - 세종대학교 중앙학술프로그래밍 동아리 인터페이스 (2016 ~)
